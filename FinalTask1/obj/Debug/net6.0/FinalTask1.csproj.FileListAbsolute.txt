@@ -1,0 +1,15 @@
+C:\Users\ROMANOV\Desktop\GIT ED 6\FinalTask1\bin\Debug\net6.0\FinalTask1.exe
+C:\Users\ROMANOV\Desktop\GIT ED 6\FinalTask1\bin\Debug\net6.0\FinalTask1.deps.json
+C:\Users\ROMANOV\Desktop\GIT ED 6\FinalTask1\bin\Debug\net6.0\FinalTask1.runtimeconfig.json
+C:\Users\ROMANOV\Desktop\GIT ED 6\FinalTask1\bin\Debug\net6.0\FinalTask1.dll
+C:\Users\ROMANOV\Desktop\GIT ED 6\FinalTask1\bin\Debug\net6.0\FinalTask1.pdb
+C:\Users\ROMANOV\Desktop\GIT ED 6\FinalTask1\obj\Debug\net6.0\FinalTask1.csproj.AssemblyReference.cache
+C:\Users\ROMANOV\Desktop\GIT ED 6\FinalTask1\obj\Debug\net6.0\FinalTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROMANOV\Desktop\GIT ED 6\FinalTask1\obj\Debug\net6.0\FinalTask1.AssemblyInfoInputs.cache
+C:\Users\ROMANOV\Desktop\GIT ED 6\FinalTask1\obj\Debug\net6.0\FinalTask1.AssemblyInfo.cs
+C:\Users\ROMANOV\Desktop\GIT ED 6\FinalTask1\obj\Debug\net6.0\FinalTask1.csproj.CoreCompileInputs.cache
+C:\Users\ROMANOV\Desktop\GIT ED 6\FinalTask1\obj\Debug\net6.0\FinalTask1.dll
+C:\Users\ROMANOV\Desktop\GIT ED 6\FinalTask1\obj\Debug\net6.0\refint\FinalTask1.dll
+C:\Users\ROMANOV\Desktop\GIT ED 6\FinalTask1\obj\Debug\net6.0\FinalTask1.pdb
+C:\Users\ROMANOV\Desktop\GIT ED 6\FinalTask1\obj\Debug\net6.0\FinalTask1.genruntimeconfig.cache
+C:\Users\ROMANOV\Desktop\GIT ED 6\FinalTask1\obj\Debug\net6.0\ref\FinalTask1.dll
